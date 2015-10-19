@@ -1,10 +1,10 @@
 # tax-calc
 You don’t always need a complex control structure to solve simple problems. Sometimes a program requires an extra step in one case, but in all other cases theres nothing to do.
 
-Leslie Sutton [12:02 PM]
+
 Write a simple program to compute the tax on an order amount. The program should prompt for the order amount and the state. If the state is “WI” then the order must be charged 5.5% tax. The program should display the subtotal, tax, and total for Wisconsin residents but display just the total for non-residents.
 
-Leslie Sutton [12:03 PM]
+
 Example Output:
 What is the order amount? 10
 What is the state? WI
