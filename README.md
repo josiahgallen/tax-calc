@@ -21,7 +21,6 @@ Implement this program using only a simple if statement - don’t use an else ca
 Ensure that all money is rounded up to the nearest cent
 Use a simple output statement at the end of the program to display the program results
 
-Leslie Sutton [12:04 PM]
 Challenges
 Allow the user to enter a state abbreviation in upper, lower or mixed case
 also allow the user to enter the states full name in upper, lower or mixed case
